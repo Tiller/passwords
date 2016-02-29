@@ -40,6 +40,7 @@ Comments are welcome, bugs reports too. However, I do not plan to maintain these
 * SuperGenPass [https://github.com/cmcnulty/SuperGenPass](https://github.com/cmcnulty/SuperGenPass)
 * BCrypt [http://en.wikipedia.org/wiki/Bcrypt](http://en.wikipedia.org/wiki/Bcrypt)
 * Java's BCrypt: Damien Miller <djm@mindrot.org>
+* Ashraff Hathibelagal: https://github.com/tutsplus/Android-CustomKeyboard
 
 ### License
 
